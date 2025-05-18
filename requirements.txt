@@ -1,0 +1,17 @@
+tensorflow==2.10.1
+
+keras==2.10.0
+
+opencv-python
+
+numpy
+
+pandas
+
+matplotlib
+
+scikit-learn
+
+Pillow
+streamlit==1.45.1
+protobuf==3.20.3
