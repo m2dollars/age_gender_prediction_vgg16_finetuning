@@ -56,6 +56,7 @@ Example: `3999_1924-11-20_2010.jpg`
 
 - Python 3.8+
 - Recommended: Create and activate a virtual environment
+- NVIDIA GeForce RTX 4060 Ti
 
 ### Install dependencies
 
