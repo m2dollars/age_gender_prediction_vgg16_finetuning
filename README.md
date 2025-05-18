@@ -88,4 +88,8 @@ streamlit run app.py
 ├── README.md                 # Project documentation (this file)
 
 
+![predict](https://github.com/user-attachments/assets/7dd910cf-a344-4f98-bbd0-8fcba893970d)
+
+
+
 
