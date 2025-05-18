@@ -87,9 +87,7 @@ streamlit run app.py
 ├── requirements.txt          # Python dependencies
 ├── README.md                 # Project documentation (this file)
 
-
-![predict](https://github.com/user-attachments/assets/7dd910cf-a344-4f98-bbd0-8fcba893970d)
-
+![Alt text](result.png)
 
 
 
